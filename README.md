@@ -1,9 +1,11 @@
 # magnet-search磁力搜索，是全球最快,最新,最全的磁力链搜索引擎的中文版本
 
-### 当前最新地址: [http://sscll.xyz](http://sscll.xyz)
+### 当前最新地址: [http://ssscll.xyz](http://ssscll.xyz)
 
 
 ### 曾用地址: 
+
+[http://sscll.xyz](http://sscll.xyz)
 
 [https://soucll.com](https://soucll.com)
 
